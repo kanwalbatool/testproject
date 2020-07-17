@@ -46,7 +46,7 @@
     "inject-loader": "^3.0.0",
     "babel-plugin-istanbul": "^4.1.1",
     "phantomjs-prebuilt": "^2.1.14",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "babel-plugin-lodash": "^3.2.11",
     "lodash-webpack-plugin": "^0.11.4",
     "node-sass": "^4.5.3",
